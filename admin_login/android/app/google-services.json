@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "335423965361",
+    "project_id": "ostello-62181",
+    "storage_bucket": "ostello-62181.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335423965361:android:bc089f292573277b3a3a90",
+        "android_client_info": {
+          "package_name": "com.example.admin_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLzI2BruEg_DUiGnsMSkFIU59xksWoWHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335423965361:android:0f7168e6f5781a6b3a3a90",
+        "android_client_info": {
+          "package_name": "com.example.app_dvlp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLzI2BruEg_DUiGnsMSkFIU59xksWoWHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

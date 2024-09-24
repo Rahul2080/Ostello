@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706591245596",
+    "project_id": "hostel-416ec",
+    "storage_bucket": "hostel-416ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706591245596:android:28fd8ab0a286bc948766d9",
+        "android_client_info": {
+          "package_name": "com.example.cs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpmbOiet6EEmZ_TexFd9bBXHhoiNb_qH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
